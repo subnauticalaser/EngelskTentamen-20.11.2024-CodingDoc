@@ -44,4 +44,4 @@ What the Content should look like.
 
 
 
-$\textsf{\color{#f5750e}{f5750e}}$
+$\textsf{\color{#f5750e}{GG}}$
