@@ -15,11 +15,6 @@ Adds Text too your ReadMe File with the following arguments.
 
 
 
-`returns`
-
-`string` - The Content that if placed in a '.md' file, will show up with the text, and the Color [if Provided].
-
-
 `Exsample Code`
 
 ```lua
@@ -46,3 +41,40 @@ What the Content should look like.
 
 $\textsf{\color{#ffff00}{GG}}$
 
+
+
+### addHeaderText
+
+Adds a Header Text too your ReadMe File with the following arguments.
+
+`Arguments`
+
+`Text`: Required - The Header Text that is displayed. \
+`Size`: Optional - Set the Size of the Header, in the range of: 1 to 4. [Default: 1]
+
+
+`Exsample Code`
+
+```lua
+local Text = Readme.Readme.addHeaderText({
+	Text = 'GG',
+	Size = 4
+})
+```
+
+
+`Exsample Return`
+
+What the Function should return, if successfull.
+
+```md
+#### GG
+```
+
+
+`Exsample View`
+
+What the Content should look like.
+
+
+#### GG
