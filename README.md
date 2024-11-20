@@ -43,9 +43,7 @@ What the Content should look like.
 
 
 
-<p>
-Quack quack
-<text color=red>ERROR</text>
-</p>
+
+$${\color{red}Red}$$
 
 
