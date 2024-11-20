@@ -31,6 +31,14 @@ ReadmeModule.addText({
 
 `Exsample Return`
 
+What the Function should return, if successfull.
+
 ```txt
 <span style="color: rgb(255, 255, 0);">GG</span>
 ```
+
+`Exsample View`
+
+What the Content should look like.
+
+<span style="color: rgb(255, 255, 0);">GG</span>
