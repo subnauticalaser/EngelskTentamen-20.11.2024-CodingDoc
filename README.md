@@ -41,4 +41,4 @@ What the Function should return, if successfull.
 
 What the Content should look like.
 
-<span style="color: rgb(0, 123, 255);">This is custom RGB color text</span>
+<span style="color: rgba(255, 255, 0, 255);">GG</span>
