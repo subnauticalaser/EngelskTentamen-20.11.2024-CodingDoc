@@ -43,6 +43,6 @@ What the Content should look like.
 
 
 
-`
+
 $\textf{\color{#ffff00}{GG}}$
-`
+
