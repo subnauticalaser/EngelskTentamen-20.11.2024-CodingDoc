@@ -43,6 +43,6 @@ What the Content should look like.
 
 
 
-$\color{#FF0000}{like~this!}$ 
+$\color{#FF0000}{like this!}$ 
 
 
