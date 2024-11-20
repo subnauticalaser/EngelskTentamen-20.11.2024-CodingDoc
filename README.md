@@ -44,6 +44,5 @@ What the Content should look like.
 
 
 
-<p style='color:red'>This is some red text.</p>
-
+<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><text x="10" y="30" fill="green" font-family="Arial">Green</text></svg>
 
