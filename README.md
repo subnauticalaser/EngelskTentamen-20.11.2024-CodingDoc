@@ -43,5 +43,5 @@ What the Content should look like.
 
 
 
-#### $\textsf{\color{#fa0000}{Section A.}}$
+<span style="color:#ffff00">GG</span>
 
