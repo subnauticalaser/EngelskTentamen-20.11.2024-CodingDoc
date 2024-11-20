@@ -41,5 +41,5 @@ What the Function should return, if successfull.
 
 What the Content should look like.
 
-# ${This is a {\color{red}}} Title$
+# ${This\ is\ a\ {\color{red}}}\ Title$
 
