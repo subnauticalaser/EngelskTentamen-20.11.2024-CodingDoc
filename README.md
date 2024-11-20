@@ -34,7 +34,7 @@ ReadmeModule.addText({
 What the Function should return, if successfull.
 
 ```md
-$\textf{\color{#ffff00}{GG}}$
+$\textsf{\color{#ffff00}{GG}}$
 ```
 
 `Exsample View`
@@ -44,5 +44,5 @@ What the Content should look like.
 
 
 
-$\textf{\color{#ffff00}{GG}}$
+$\textsf{\color{#ffff00}{GG}}$
 
