@@ -44,4 +44,4 @@ What the Content should look like.
 
 
 
-<h3 style="color:#ff0000">Danger</h3>
+$\textsf{\color{#f5750e}{f5750e}}$
