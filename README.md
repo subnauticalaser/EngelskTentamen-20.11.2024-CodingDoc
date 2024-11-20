@@ -4,6 +4,20 @@
 ## Text
 
 
+
+
+### start
+
+Require the Module
+
+```lua
+--- Require the Module
+local ReadmeModule = require(game:GetService('ReplicatedStorage'):WaitForChild('ReadMe-API'))
+```
+
+
+
+
 ### addText
 
 Adds Text too your ReadMe File with the following arguments.
@@ -56,7 +70,7 @@ Adds a Header Text too your ReadMe File with the following arguments.
 `Exsample Code`
 
 ```lua
-local Text = Readme.Readme.addHeaderText({
+ReadmeModule.addHeaderText({
 	Text = 'GG',
 	Size = 4
 })
