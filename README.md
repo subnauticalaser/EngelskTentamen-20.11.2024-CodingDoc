@@ -43,6 +43,6 @@ What the Content should look like.
 
 
 
-$\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
+$\color{#FF0000}{like~this!}$ 
 
 
