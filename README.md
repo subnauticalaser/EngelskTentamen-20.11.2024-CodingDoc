@@ -41,4 +41,5 @@ What the Function should return, if successfull.
 
 What the Content should look like.
 
-<span style="color: rgba(255, 255, 0, 255);">GG</span>
+# ${This\ is\ a\ {\color{red}Big}}\ Title$
+
