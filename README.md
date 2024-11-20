@@ -43,5 +43,5 @@ What the Content should look like.
 
 
 
-#### $\textsf{\color{#326a95}{Section A.}}$
+#### $\textsf{\color{#fa0000}{Section A.}}$
 
