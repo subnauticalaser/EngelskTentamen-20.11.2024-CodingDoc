@@ -44,5 +44,4 @@ What the Content should look like.
 
 
 
-<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><text x="10" y="30" fill="green" font-family="Arial">Green</text></svg>
-
+<h3 style="color:#ff0000">Danger</h3>
