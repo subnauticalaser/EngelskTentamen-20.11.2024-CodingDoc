@@ -41,4 +41,4 @@ What the Function should return, if successfull.
 
 What the Content should look like.
 
-<span style="color: rgb(255, 255, 0);">GG</span>
+<span style="color: #ffff00;">GG</span>
