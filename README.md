@@ -43,6 +43,9 @@ What the Content should look like.
 
 
 
-$\color{#FF0000}{like this!}$ 
+<p>
+Quack quack
+<text color=red>ERROR</text>
+</p>
 
 
