@@ -33,8 +33,8 @@ ReadmeModule.addText({
 
 What the Function should return, if successfull.
 
-```txt
-<span style="color: rgb(255, 255, 0);">GG</span>
+```md
+$\textf{\color{#ffff00}{GG}}$
 ```
 
 `Exsample View`
@@ -43,5 +43,6 @@ What the Content should look like.
 
 
 
-
-$\textsf{\color{#f5750e}{GG}}$
+`
+$\textf{\color{#ffff00}{GG}}$
+`
